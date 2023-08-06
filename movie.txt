@@ -1,0 +1,6 @@
+we create a new app npx-create-react app 
+we install various packages of my packages-json
+and make component step by step
+render with App
+npm start App.js  you show various categories of Movies   give me feedback---------
+
